@@ -1,22 +1,22 @@
 {
-  "name": "scale",
+  "name": "electronic-scale",
   "version": "1.0.0",
-  "description": "connect scale to browser",
+  "description": "connect electronic scale to browser",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dineshrabara/scale.git"
+    "url": "git+https://github.com/dineshrabara/electronic-scale.git"
   },
   "keywords": [
-    "scale"
+    "electronic-scale"
   ],
   "author": "Dinesh Rabara",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dineshrabara/scale/issues"
+    "url": "https://github.com/dineshrabara/electronic-scale/issues"
   },
-  "homepage": "https://github.com/dineshrabara/scale#readme"
+  "homepage": "https://github.com/dineshrabara/electronic-scale#readme"
 }
