@@ -12,3 +12,6 @@ step 3 : node index.js
 step 4 : open url : http://127.0.0.1:3000/getScaleApi
 
 above url return real time scale data so you can integrate with ajax call
+
+
+![alt text](https://raw.githubusercontent.com/dineshrabara/electronic-scale/master/scale.jpg)
